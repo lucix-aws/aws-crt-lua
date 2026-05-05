@@ -2,7 +2,7 @@
 
 LuaJIT FFI bindings to the [AWS Common Runtime (CRT)](https://docs.aws.amazon.com/sdkref/latest/guide/common-runtime.html) HTTP client.
 
-This provides an optional high-performance HTTP transport for the AWS Lua SDK, backed by the same HTTP stack used by all other AWS SDKs. It exposes a synchronous blocking API suitable for LuaJIT FFI consumption.
+This provides an optional high-performance HTTP transport for the AWS Lua SDK. It exposes a synchronous blocking API suitable for LuaJIT FFI consumption.
 
 ## What this gives you
 
